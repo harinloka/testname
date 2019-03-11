@@ -1,0 +1,7 @@
+node
+{
+stage('gitclone')
+}
+{
+stage('maven targets')
+}
