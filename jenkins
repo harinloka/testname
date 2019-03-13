@@ -1,7 +1,7 @@
 node
 {
 stage('git clone'){
-git 'http://github.com/deveopsvc/mahalogin.git
+git 'https://github.com/harinloka/testname.git'
 }
 
 stage('maven targets')
